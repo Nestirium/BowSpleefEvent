@@ -1,0 +1,9 @@
+name: BowSpleefEvent
+version: 1.0.0
+main: dev.nest.bowspleef.Main
+author: Nestirium
+commands:
+  bsforcestart:
+    aliases:
+      - bsfs
+  bsforcestop:
